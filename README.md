@@ -17,3 +17,8 @@
 ## Current Status
 - **Code Uploaded**: The complete code has been uploaded to the repository.
 - **Documentation in Progress**: Detailed usage instructions and documentation are currently being written.
+
+## **Acknowledgement**
+
+This repository is benefit from [AnimateAnything](https://github.com/alibaba/animate-anything). Thanks for the open-sourcing work! Any third-party packages are
+owned by their respective authors and must be used under their respective licenses.
