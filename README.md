@@ -34,6 +34,7 @@ paintings.
 ## Requirements
 
 * All experiments are conducted on a single NVIDIA 3090 GPU (24 GB).
+* The basic experiment based on AnimateAnything can be run with a 16GB GPU.
 
 ## Getting Started
 
